@@ -1,6 +1,9 @@
 # Scriptable Input System (SIS)
 
+```
 Created by: JurgenWithWings
+Version: 0.3.0
+```
 
 This is a simple input wrapper for Unity that allows you to easily manage input actions and bindings. It provides a 
 clean way to create and modify input captured by Unity for use in your game.
